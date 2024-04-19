@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Hashim Bolaji Bello",
   description: "Created by Hashim",
   icons: {
-    icon: "../public/fav.png",
+    icon: "public/fav.ico",
   },
 };
 
